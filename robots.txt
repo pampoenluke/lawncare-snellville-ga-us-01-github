@@ -2,8 +2,8 @@ User-agent: *
 Allow: /
 Allow: /img/
 
-Sitemap: https://lawncare-snellville-ga-us-01-github.placeholder.local/sitemap.xml
-Sitemap: https://lawncare-snellville-ga-us-01-github.placeholder.local/sitemap-images.xml
+Sitemap: https://pampoenluke.github.io/lawncare-snellville-ga-us-01-github/sitemap.xml
+Sitemap: https://pampoenluke.github.io/lawncare-snellville-ga-us-01-github/sitemap-images.xml
 
 User-agent: Googlebot-Image
 Allow: /img/
