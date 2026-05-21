@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /img/
+
+Sitemap: https://lawncare-snellville-ga-us-01-github.placeholder.local/sitemap.xml
+Sitemap: https://lawncare-snellville-ga-us-01-github.placeholder.local/sitemap-images.xml
+
+User-agent: Googlebot-Image
+Allow: /img/
+
+User-agent: Bingbot
+Allow: /
